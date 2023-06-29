@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #DFDFDF;
+  background-image: linear-gradient(#DFDFDF, #88888828 90%);
   margin: 0px 100px;
   font-family:Arial, Helvetica, sans-serif;
 }
@@ -46,7 +46,7 @@ nav {
   display: flex;
   flex-wrap: wrap;
   row-gap: 20px;
-  background-image: linear-gradient(#DFDFDF, #88888828 90%)
+  
 }
 
 .photo1 {
