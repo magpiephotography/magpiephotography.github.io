@@ -30,6 +30,11 @@ li a:hover {
   color: white;
 }
 
+li a.active {
+  background-color: #fd9bd3;
+  color: white;
+}
+
 img {
   margin: auto;
   display: block;
