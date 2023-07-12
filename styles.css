@@ -17,6 +17,10 @@ ul {
   background-color: #f1f1f1;
 }
 
+li {
+  float: left;
+}
+
 li a {
   display: block;
   color: #000;
