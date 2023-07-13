@@ -19,12 +19,12 @@ a {
 }
 
 /* Change the link color on hover */
-.nav_menu:hover {
+a .nav_menu:hover {
   background-color: #111;
   color: #4eaab1;
 }
 
-.nav_menu:active {
+a .nav_menu:active {
   background-color: #fd9bd3;
   color: white;
 }
