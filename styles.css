@@ -30,12 +30,12 @@ overflow: hidden;
 }
 
 /* Change the link color on hover */
-a:hover {
+nav_menu:hover {
   background-color: #111;
   color: #4eaab1;
 }
 
-a:active {
+nav_menu:active {
   background-color: #fd9bd3;
   color: white;
 }
