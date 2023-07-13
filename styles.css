@@ -47,26 +47,3 @@ p {
   display: flex;
   flex-wrap: wrap;
   row-gap: 20px;
-  
-}
-
-.photo1 {
-  width: 600px;
-  height: 400px;
-}
-
-.photo2 {
-  width: 280px;
-  height: 400px;
-}
-
-.photo3 {
-  width: 600px;
-  height: 400px;
-}
-
-.photos {
-  width: 200px;
-  height: 200px;
-  display: inline-block
-}
