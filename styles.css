@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  margin-top: 0px;
 }
 
 body {
@@ -9,20 +8,16 @@ body {
   font-family:Arial, Helvetica, sans-serif;
 }
 
-li {
-  float: left;
-}
-
 a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px
+  padding: 14px;
   text-decoration: none;
-    list-style-type: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
-overflow: hidden;
+  overflow: hidden;
 }
 
 /* Change the link color on hover */
@@ -39,12 +34,7 @@ nav_menu:active {
 img {
   margin: auto;
   display: block;
-}
-
-hr {
-  width: 80%;
-  margin: auto;
-  border: 1px solid #888888;
+  flex-wrap: wrap;
 }
 
 p {
