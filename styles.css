@@ -34,7 +34,8 @@ li a {
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #111
+  background-color: #111;
+  color: #4eaab1;
 }
 
 li a.active {
