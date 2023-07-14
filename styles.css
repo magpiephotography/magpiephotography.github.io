@@ -27,15 +27,3 @@ nav a:active {
   color: white;
 }
 
-img {
-  margin: auto;
-  display: block;
-  flex-wrap: wrap;
-}
-
-.photoList {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  row-gap: 20px;
-}
