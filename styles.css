@@ -11,9 +11,7 @@ body {
 nav a {
   margin: 0;
   padding: 50px 50px 50px 50px;
-  text-align: center;
   text-decoration: none;
-  overflow: hidden;
   color: black;
 }
 
@@ -32,13 +30,6 @@ img {
   margin: auto;
   display: block;
   flex-wrap: wrap;
-}
-
-p {
-  width: 100%;
-  display: inline;
-  position: relative;
-  left: 400px;
 }
 
 .photoList {
